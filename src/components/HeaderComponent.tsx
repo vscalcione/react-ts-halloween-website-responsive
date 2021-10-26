@@ -1,7 +1,8 @@
 import React from "react";
-import Logo from "../../assets/img/logo.png";
-import NavImg from "../../assets/img/nav-img.png";
-import "../../App.css";
+
+import Logo from "../assets/img/logo.png";
+import NavImg from "../assets/img/nav-img.png";
+import "../App.css";
 
 export const HeaderComponent = () => {
   return (
